@@ -4,7 +4,7 @@ A project that is using an Api.
 
 ## Screenshot of the page
 
-![screenshot](https://user-images.githubusercontent.com/54015740/147372432-93cbe4c2-427b-4bd4-b734-1fc2b1039bf3.JPG)
+![screenshot](https://user-images.githubusercontent.com/54015740/147372794-cb714526-88f9-446e-a61e-cf1257503ab9.png)
 
 ## Project Decription
 
