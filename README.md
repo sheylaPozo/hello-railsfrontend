@@ -1,18 +1,19 @@
-![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet) ![app](https://img.shields.io/badge/Myapp-blue)![](https://img.shields.io/github/followers/sheylaPozo?style=social)
+# Hello Rails Front End
 
-# Hello rails back end:
+A project that is using an Api.
 
-A Rails project as API.
+## Screenshot of the page
 
-[Link to the front end project PR](https://github.com/sheylaPozo/hello-railsfrontend)
+![screenshot](https://user-images.githubusercontent.com/54015740/147372432-93cbe4c2-427b-4bd4-b734-1fc2b1039bf3.JPG)
 
-[screenshot](https://user-images.githubusercontent.com/54015740/147371320-28a38bab-eed4-4fbd-b0df-566df99f8934.JPG)
+## Project Decription
 
-## Built With
+This project is rendering a different greeting everytime.
 
-- Ruby
-- Rails
-- PostgreSQL
+## Build With
+
+- `React`
+- `Redux`
 
 ## Getting Started
 
@@ -20,41 +21,16 @@ To get a local copy up and running follow these simple example steps.
 
 ## Instructions
 
-```
 $ cd <folder>
-```
 
-```
-$ git clone git@github.com:sheylaPozo/hello-railsbackend.git
-```
+$ git clone 
 
-```
-$ cd hello-railsbackend
-```
+### Install
 
-## Install
+- Set up liveserver as an extension in your VS Code.
+- If you dont have the live server extension, or are using another software just view directly in your browser.
 
-```
-$ bundle install
-```
-
-## Run
-
-```
-$ rails db:create
-```
-
-```
-$ rails db:migrate
-```
-
-```
-$ rails db:seed
-```
-
-```
-rails s
-```
+- `npm install`
 
 ## 🤍 Author:
 
@@ -70,7 +46,7 @@ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sheylaPozo/hello-railsbackend/issues).
+Feel free to check the [issues page](https://github.com/sheylaPozo/hello-railsfrontend/issues)
 
 ## Show your support
 
